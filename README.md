@@ -1,8 +1,6 @@
 # Hi 👋, I'm Haoming Zhang
 
-### 🐮🐴
-
-- 📫 How to reach me **haoming.zhang233@gmail.com**
+reach me **haoming.zhang233@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
