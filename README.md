@@ -1,9 +1,10 @@
-# Hi 👋, I'm Haoming Zhang
+🥠My research interests include AI and brain-computer interfaces(BCI). I’m always open to academic exchange and collaboration.
+🎃reach me **haoming.zhang233@gmail.com**
 
-reach me **haoming.zhang233@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Je1zzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Je1zzz" height="30" width="40" /></a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Je1zzz&screen_effect=true&theme=road_trip">
+    <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Je1zzz&theme=road_trip">
+    <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Je1zzz&theme=road_trip">
+  </picture>
 </p>
-
